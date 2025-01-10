@@ -25,13 +25,17 @@ module.exports = {
           muted: "#cbd5e1",
           light: "#f1f5f9",
           lighter: "#D4E4E6",
-          dark: "#0f172a",
+          // TOCONFIRM: changed from #b0b0b0
+          dark: "#c0c0c0",
         },
         secondary: {
           DEFAULT: "#02E2AC",
           light: "#87E4DB",
         },
         highlight: "#CBF0C1",
+        fill:{
+          dark:"#303a47"
+        },
         skin: {
           muted: "#FAFCFC",
           DEFAULT: "#E5EEEF",
